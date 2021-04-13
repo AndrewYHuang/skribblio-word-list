@@ -22,3 +22,8 @@ zoom,
 teams,
 database,
 server,
+vim,
+LGTM,
+emacs,
+nano,
+
